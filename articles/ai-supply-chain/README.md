@@ -6,9 +6,9 @@ Nine tables mapping the global AI economy, from physical production to industria
 
 ## Table index
 
-| Table | Topic | Rows | What it explains | Datawrapper draft |
+| Table | Topic | Rows | What it explains | Datawrapper |
 | --- | --- | ---: | --- | --- |
-| [01](data/01_global_ai_industrial_pipeline.csv) | Global AI industrial pipeline | 11 | How materials, chips, infrastructure, models and applications connect. | [Review](https://app.datawrapper.de/edit/CL144/visualize) |
+| [01](data/01_global_ai_industrial_pipeline.csv) | Global AI industrial pipeline | 11 | How materials, chips, infrastructure, models and applications connect. | [Published table](https://datawrapper.dwcdn.net/LsPh3/1/) |
 | [02](data/02_concentration_of_industrial_capabilities.csv) | Concentration of industrial capabilities | 11 | Geographic specializations and the dependencies behind them. | [Review](https://app.datawrapper.de/edit/luaYr/visualize) |
 | [03](data/03_critical_industrial_chokepoints.csv) | Critical industrial chokepoints | 10 | Why switching suppliers or technologies can be difficult. | [Review](https://app.datawrapper.de/edit/v7LV9/visualize) |
 | [04](data/04_strategic_trade_routes_and_transport.csv) | Strategic trade routes and transport | 7 | Transport and energy corridors, disruption mechanisms and alternatives. | [Review](https://app.datawrapper.de/edit/y4D8I/visualize) |
@@ -40,7 +40,9 @@ Abbreviations: EDA = electronic design automation; EUV = extreme ultraviolet; HB
 
 ## Linking and publishing
 
-[Datawrapper mappings](datawrapper.json) connect each table to its exact CSV path, live raw URL, draft editor and publication status. All nine tables have unpublished drafts, created in the current signed-out browser session. The mapping also preserves a commit-specific CSV snapshot for the last verified draft. The live source can change independently of that snapshot.
+[Datawrapper mappings](datawrapper.json) connect each table to its exact CSV path, live raw URL, draft editor and publication status. Table 01 is published under the signed-in account. Its original anonymous draft was replaced after sign-in. Tables 02–09 remain unpublished anonymous drafts; their access from the signed-in account has not been verified. The mapping also preserves a commit-specific CSV snapshot for the last verified visualization. The live source can change independently of that snapshot, including after publication.
+
+For Medium, paste [Table 01’s visualization URL](https://datawrapper.dwcdn.net/LsPh3/1/) on a blank line and press Enter.
 
 After the files are pushed to GitHub, the raw URL pattern on the default branch is:
 
@@ -50,7 +52,7 @@ https://raw.githubusercontent.com/snazrul1/blog_resources/main/articles/ai-suppl
 
 Replace `<filename>.csv` with the complete numbered filename from the index. For a fixed snapshot, replace `main` with the desired commit SHA.
 
-A raw URL supplies data to a renderer; it is not itself a formatted Medium table. This collection contains only CSV data and documentation, with no deployed renderer or publishing automation.
+A raw URL supplies data to a renderer; it is not itself a formatted Medium table. Datawrapper renders the tables from their linked CSVs. The repository contains data, references and publication mappings.
 
 ## Updating this collection
 
