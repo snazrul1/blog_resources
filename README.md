@@ -1,6 +1,6 @@
 # Blog resources
 
-Data and supporting material for blog articles.
+Data and supporting material for articles on [Sadat Nazrul's Medium blog](https://medium.com/@sadatnazrul).
 
 ## Articles
 
