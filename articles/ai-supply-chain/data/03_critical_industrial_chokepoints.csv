@@ -1,11 +1,11 @@
 Capability and suppliers,Why replacement is difficult,Substitution difficulty
-EUV lithography: ASML,Specialist equipment ecosystem and accumulated expertise,Very high
-"Leading-edge foundries: TSMC, Samsung and expanding Intel Foundry","Process maturity, yields, qualified capacity and design compatibility",Very high
-"Advanced packaging: TSMC, Samsung, Intel and specialist providers","Integration technology, qualified capacity and yields",High
-"HBM: SK hynix, Samsung and Micron","Manufacturing complexity, qualification and capacity",High
-"EDA software: Synopsys, Cadence and Siemens EDA","IP, established workflows and qualified tools",High
-"Inspection and metrology: KLA, ASML and others","Precision, process integration and specialist expertise",High
-Wafers and photoresists: Japanese and other qualified suppliers,"Purity, consistency and customer qualification",Medium to high
-"AI accelerators: NVIDIA, AMD, Google, AWS, Huawei and others","Performance, software compatibility and interconnects","Medium to high, depending on workload"
-"AI compute: AWS, Azure, Google Cloud and specialist GPU clouds","Capital, accelerators, networking and operations",Medium to high
-"Grid-connected capacity: utilities, grid operators and developers","Power access, transmission, permits and location",High in constrained regions
+<b>EUV lithography</b><br>ASML,Specialist equipment ecosystem and accumulated expertise,Very high
+"<b>Leading-edge foundries</b><br>TSMC, Samsung and expanding Intel Foundry","Process maturity, yields, qualified capacity and design compatibility",Very high
+"<b>Advanced packaging</b><br>TSMC, Samsung, Intel and specialist providers","Integration technology, qualified capacity and yields",High
+"<b>HBM</b><br>SK hynix, Samsung and Micron","Manufacturing complexity, qualification and capacity",High
+"<b>EDA software</b><br>Synopsys, Cadence and Siemens EDA","IP, established workflows and qualified tools",High
+"<b>Inspection and metrology</b><br>KLA, ASML and others","Precision, process integration and specialist expertise",High
+<b>Wafers and photoresists</b><br>Japanese and other qualified suppliers,"Purity, consistency and customer qualification",Medium to high
+"<b>AI accelerators</b><br>NVIDIA, AMD, Google, AWS, Huawei and others","Performance, software compatibility and interconnects","Medium to high, depending on workload"
+"<b>AI compute</b><br>AWS, Azure, Google Cloud and specialist GPU clouds","Capital, accelerators, networking and operations",Medium to high
+"<b>Grid-connected capacity</b><br>Utilities, grid operators and developers","Power access, transmission, permits and location",High in constrained regions

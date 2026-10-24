@@ -32,6 +32,8 @@ Nine tables mapping the global AI economy, from physical production to industria
 
 Each CSV has one header row and exactly three columns. Related fields from the original four-column tables are combined. There are no separate notes or source columns. Background sources are in [Research references](references.md); scenario analysis and qualitative judgments are editorial synthesis.
 
+Cells use `<b>` for labels and `<br>` for line breaks in Datawrapper. Descriptions appear below labels, and Table 01 lists each country on a separate line. Plain CSV viewers may display these tags literally.
+
 Files contain no spreadsheet formulas, title rows, merged cells or embedded images. Their numbered filenames preserve the intended reading order.
 
 Abbreviations: EDA = electronic design automation; EUV = extreme ultraviolet; HBM = high-bandwidth memory; DRAM = dynamic random-access memory; GPU = graphics processing unit; CPU = central processing unit; API = application programming interface; IP = intellectual property; R&D = research and development; LNG = liquefied natural gas.

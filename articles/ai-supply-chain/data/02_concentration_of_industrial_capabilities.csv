@@ -1,12 +1,12 @@
 Country or region,Capabilities and leverage,Key dependencies
-United States,"Chip design, EDA, cloud and AI models. Influence through technology, IP and export controls.","Overseas fabrication, memory, equipment and markets"
-Taiwan,Leading-edge fabrication and packaging. Leverage through specialized capacity and expertise.,"Foreign equipment, materials, imported energy and customers"
-Netherlands,ASML EUV lithography. Essential equipment for established leading-edge EUV processes.,"Global components, customers and export licensing"
-Japan,"Wafers, photoresists, chemicals and equipment. Leverage through qualified specialist suppliers.","Global chip demand, energy and supply networks"
-South Korea,"HBM, DRAM and advanced fabrication. Leverage through memory technology and scale.","Foreign equipment, materials and customers"
-China,"Electronics, mineral processing, mature-node chips and AI. Leverage through scale, demand and material exports.","Selected foreign equipment, advanced chip technology and IP"
-Germany,"Optics, chemicals and specialist equipment. Leverage through precision components.","International customers, energy and supply networks"
-Malaysia,"Assembly, packaging and testing. Leverage through established manufacturing clusters.","Imported wafers, equipment and foreign customers"
-Singapore,"Fabrication, equipment, materials and logistics. Leverage through regional industrial infrastructure.","Global trade, foreign investment and imported resources"
-India,"Design services, engineering and semiconductor investment. Leverage through talent and domestic demand.",Imported chips and equipment. Fab ecosystem still developing.
-Middle East (selected Gulf economies),"Energy, capital and data-center investment. Leverage through finance and infrastructure.","Imported accelerators, technology partners and specialist talent"
+<b>United States</b>,"Chip design, EDA, cloud and AI models. Influence through technology, IP and export controls.","Overseas fabrication, memory, equipment and markets"
+<b>Taiwan</b>,Leading-edge fabrication and packaging. Leverage through specialized capacity and expertise.,"Foreign equipment, materials, imported energy and customers"
+<b>Netherlands</b>,ASML EUV lithography. Essential equipment for established leading-edge EUV processes.,"Global components, customers and export licensing"
+<b>Japan</b>,"Wafers, photoresists, chemicals and equipment. Leverage through qualified specialist suppliers.","Global chip demand, energy and supply networks"
+<b>South Korea</b>,"HBM, DRAM and advanced fabrication. Leverage through memory technology and scale.","Foreign equipment, materials and customers"
+<b>China</b>,"Electronics, mineral processing, mature-node chips and AI. Leverage through scale, demand and material exports.","Selected foreign equipment, advanced chip technology and IP"
+<b>Germany</b>,"Optics, chemicals and specialist equipment. Leverage through precision components.","International customers, energy and supply networks"
+<b>Malaysia</b>,"Assembly, packaging and testing. Leverage through established manufacturing clusters.","Imported wafers, equipment and foreign customers"
+<b>Singapore</b>,"Fabrication, equipment, materials and logistics. Leverage through regional industrial infrastructure.","Global trade, foreign investment and imported resources"
+<b>India</b>,"Design services, engineering and semiconductor investment. Leverage through talent and domestic demand.",Imported chips and equipment. Fab ecosystem still developing.
+<b>Middle East (selected Gulf economies)</b>,"Energy, capital and data-center investment. Leverage through finance and infrastructure.","Imported accelerators, technology partners and specialist talent"

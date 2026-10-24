@@ -1,11 +1,11 @@
 Established concentration,Competitors or changes,Evidence of progress
-TSMC leading-edge fabrication,"Intel Foundry, Samsung and Chinese foundry development at differing technology levels","Competitive yields, production volumes and external customers"
-ASML EUV lithography,Chinese lithography R&D and alternative patterning,"Production-scale throughput, reliability and viable yields"
-NVIDIA AI accelerators,"AMD, Google TPU, AWS Trainium, Huawei Ascend and custom chips","Competitive workload performance, total cost, software and scale"
-South Korean HBM strength,"Micron expansion, new HBM generations and alternative memory designs","Qualified capacity, yields and customer adoption"
-TSMC advanced packaging,"Intel, Samsung, specialist packaging firms and alternative methods",High-volume advanced integration with competitive yields
-U.S.-centered cloud infrastructure,"Sovereign AI clouds, specialist GPU clouds and national compute programs","Reliable capacity, competitive costs and operational control"
-Large frontier models,"Open-weight models, distillation and smaller specialist models",Comparable task quality at lower training or inference cost
-Centralized data-center compute,"Edge inference, on-device AI and distributed infrastructure","Low latency, energy efficiency and viable deployment costs"
-Established materials suppliers,Domestic supplier development and regional diversification,"Semiconductor-grade qualification, quality and sustained output"
-Conventional data-center power,"Dedicated generation, nuclear projects, better cooling and grid upgrades","Delivered power, operating capacity and competitive costs"
+<b>TSMC leading-edge fabrication</b>,"Intel Foundry, Samsung and Chinese foundry development at differing technology levels","Competitive yields, production volumes and external customers"
+<b>ASML EUV lithography</b>,Chinese lithography R&amp;D and alternative patterning,"Production-scale throughput, reliability and viable yields"
+<b>NVIDIA AI accelerators</b>,"AMD, Google TPU, AWS Trainium, Huawei Ascend and custom chips","Competitive workload performance, total cost, software and scale"
+<b>South Korean HBM strength</b>,"Micron expansion, new HBM generations and alternative memory designs","Qualified capacity, yields and customer adoption"
+<b>TSMC advanced packaging</b>,"Intel, Samsung, specialist packaging firms and alternative methods",High-volume advanced integration with competitive yields
+<b>U.S.-centered cloud infrastructure</b>,"Sovereign AI clouds, specialist GPU clouds and national compute programs","Reliable capacity, competitive costs and operational control"
+<b>Large frontier models</b>,"Open-weight models, distillation and smaller specialist models",Comparable task quality at lower training or inference cost
+<b>Centralized data-center compute</b>,"Edge inference, on-device AI and distributed infrastructure","Low latency, energy efficiency and viable deployment costs"
+<b>Established materials suppliers</b>,Domestic supplier development and regional diversification,"Semiconductor-grade qualification, quality and sustained output"
+<b>Conventional data-center power</b>,"Dedicated generation, nuclear projects, better cooling and grid upgrades","Delivered power, operating capacity and competitive costs"

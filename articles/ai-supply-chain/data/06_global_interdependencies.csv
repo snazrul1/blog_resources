@@ -1,11 +1,11 @@
 Country or industry and output,Key dependencies,Potential disruption effects
-Taiwan: advanced logic chips and packaging,"Dutch, U.S. and Japanese equipment. Foreign materials and imported energy.",Advanced processor shortages worldwide
-"United States: chip designs, EDA, cloud and AI models","Taiwan fabrication, South Korean and U.S. memory, global equipment suppliers",Higher compute costs and slower expansion
-Netherlands: advanced lithography equipment,"International precision components, customers and research partners",Delayed fab expansion and process upgrades
-"Japan: wafers, photoresists, equipment and chemicals","Global customers, imported energy and raw materials",Chip production interruptions worldwide
-"South Korea: HBM, DRAM and advanced chips","Foreign equipment, materials and export markets",Memory shortages and constrained accelerator production
-"China: electronics, processed minerals and mature-node chips","Selected foreign equipment, software, advanced chips and inputs",Disrupted electronics production and domestic advanced computing
-"Southeast Asia: assembly, testing and electronics","Imported wafers, equipment and foreign customers",Delayed components and finished systems
-Cloud providers: compute and storage,"Accelerators, networking, power, cooling and construction",Higher compute prices and delayed capacity
-Model developers: foundation models and inference,"Compute, data, talent and financing","Higher training and inference costs, slower scaling"
-Application companies: AI products and services,"Model APIs, cloud platforms and data access","Higher costs, vendor switching and service disruption"
+<b>Taiwan</b><br>Advanced logic chips and packaging,"Dutch, U.S. and Japanese equipment. Foreign materials and imported energy.",Advanced processor shortages worldwide
+"<b>United States</b><br>Chip designs, EDA, cloud and AI models","Taiwan fabrication, South Korean and U.S. memory, global equipment suppliers",Higher compute costs and slower expansion
+<b>Netherlands</b><br>Advanced lithography equipment,"International precision components, customers and research partners",Delayed fab expansion and process upgrades
+"<b>Japan</b><br>Wafers, photoresists, equipment and chemicals","Global customers, imported energy and raw materials",Chip production interruptions worldwide
+"<b>South Korea</b><br>HBM, DRAM and advanced chips","Foreign equipment, materials and export markets",Memory shortages and constrained accelerator production
+"<b>China</b><br>Electronics, processed minerals and mature-node chips","Selected foreign equipment, software, advanced chips and inputs",Disrupted electronics production and domestic advanced computing
+"<b>Southeast Asia</b><br>Assembly, testing and electronics","Imported wafers, equipment and foreign customers",Delayed components and finished systems
+<b>Cloud providers</b><br>Compute and storage,"Accelerators, networking, power, cooling and construction",Higher compute prices and delayed capacity
+<b>Model developers</b><br>Foundation models and inference,"Compute, data, talent and financing","Higher training and inference costs, slower scaling"
+<b>Application companies</b><br>AI products and services,"Model APIs, cloud platforms and data access","Higher costs, vendor switching and service disruption"

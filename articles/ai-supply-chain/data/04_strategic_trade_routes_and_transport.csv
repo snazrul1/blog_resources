@@ -1,8 +1,8 @@
 Route or transport,Importance and disruption risks,Alternatives
-Air freight,"High-value chips and urgent components. Exposed to airspace, airport and cargo-capacity disruption.",Other airports or air corridors. Sea freight for less urgent cargo.
-Taiwan Strait and nearby waters,"Taiwan supply access and East Asian shipping. Exposed to conflict, blockade and insurance costs.",Some shipping can reroute. Lost fabrication capacity cannot.
-Strait of Malacca,"Indian-Pacific shipping corridor. Exposed to congestion, conflict and maritime security risks.",Sunda or Lombok routes where vessel size permits
-Suez Canal and Red Sea,"Asia-Europe machinery and industrial shipments. Exposed to conflict, attacks and canal closure.",Cape of Good Hope. Air freight for suitable cargo.
-Strait of Hormuz,Oil and LNG flows affect energy prices. Exposed to conflict and shipping interruption.,"Limited oil pipeline capacity, reserves and other suppliers. Pipelines cannot replace LNG shipping."
-Trans-Pacific shipping,"Asia-North America servers, electronics and machinery. Exposed to port delays, trade restrictions and congestion.",Other ports and suppliers. Limited air freight.
-Panama Canal,"Some Asia-U.S. East Coast and Atlantic routes. Exposed to water shortages, transit limits and delays.",U.S. West Coast ports and land transport. Longer ocean routes where viable.
+<b>Air freight</b>,"High-value chips and urgent components. Exposed to airspace, airport and cargo-capacity disruption.",Other airports or air corridors. Sea freight for less urgent cargo.
+<b>Taiwan Strait and nearby waters</b>,"Taiwan supply access and East Asian shipping. Exposed to conflict, blockade and insurance costs.",Some shipping can reroute. Lost fabrication capacity cannot.
+<b>Strait of Malacca</b>,"Indian-Pacific shipping corridor. Exposed to congestion, conflict and maritime security risks.",Sunda or Lombok routes where vessel size permits
+<b>Suez Canal and Red Sea</b>,"Asia-Europe machinery and industrial shipments. Exposed to conflict, attacks and canal closure.",Cape of Good Hope. Air freight for suitable cargo.
+<b>Strait of Hormuz</b>,Oil and LNG flows affect energy prices. Exposed to conflict and shipping interruption.,"Limited oil pipeline capacity, reserves and other suppliers. Pipelines cannot replace LNG shipping."
+<b>Trans-Pacific shipping</b>,"Asia-North America servers, electronics and machinery. Exposed to port delays, trade restrictions and congestion.",Other ports and suppliers. Limited air freight.
+<b>Panama Canal</b>,"Some Asia-U.S. East Coast and Atlantic routes. Exposed to water shortages, transit limits and delays.",U.S. West Coast ports and land transport. Longer ocean routes where viable.

@@ -1,11 +1,11 @@
 Initial disruption,Potential impact,Potential response
-Taiwan fab disruption,"Lost advanced chip output causes accelerator shortages, cloud delays and higher hardware costs.","Geographic diversification, inventory buffers and alternative designs"
-EUV equipment restriction,"Affected fabs lose equipment or upgrades, slowing advanced processes and capacity expansion.","Alternative processes, equipment R&D and licensing negotiations"
-HBM shortage,Limited memory supply reduces accelerator availability and raises system costs.,"More memory capacity, qualified suppliers and design improvements"
-Advanced packaging bottleneck,Limited integration capacity delays completed AI accelerators.,"Packaging investment, redesign and qualified suppliers"
-Taiwan Strait shipping disruption,Delays and higher logistics costs can disrupt equipment deliveries and production.,"Available air freight, alternative routes and inventory buffers"
-Strait of Hormuz disruption,Interrupted oil and LNG flows can raise energy and industrial costs.,"Other energy sources, suppliers and reserves"
-Advanced chip export restriction,"Specified customers face restricted or delayed access, affecting compute supply and investment.","Domestic accelerators, permitted alternatives and efficiency gains"
-Data-center grid bottleneck,Delayed power connections prevent planned GPU deployment.,"Other locations, grid investment and phased deployment"
-Major cloud outage,Unavailable APIs and compute interrupt applications and business operations.,"Multi-region systems, redundancy and alternative providers"
-More efficient AI architecture,"Less compute per task lowers unit costs, but broader adoption may increase total demand.",Reassess infrastructure investment and competitive positioning
+<b>Taiwan fab disruption</b>,"Lost advanced chip output causes accelerator shortages, cloud delays and higher hardware costs.","Geographic diversification, inventory buffers and alternative designs"
+<b>EUV equipment restriction</b>,"Affected fabs lose equipment or upgrades, slowing advanced processes and capacity expansion.","Alternative processes, equipment R&amp;D and licensing negotiations"
+<b>HBM shortage</b>,Limited memory supply reduces accelerator availability and raises system costs.,"More memory capacity, qualified suppliers and design improvements"
+<b>Advanced packaging bottleneck</b>,Limited integration capacity delays completed AI accelerators.,"Packaging investment, redesign and qualified suppliers"
+<b>Taiwan Strait shipping disruption</b>,Delays and higher logistics costs can disrupt equipment deliveries and production.,"Available air freight, alternative routes and inventory buffers"
+<b>Strait of Hormuz disruption</b>,Interrupted oil and LNG flows can raise energy and industrial costs.,"Other energy sources, suppliers and reserves"
+<b>Advanced chip export restriction</b>,"Specified customers face restricted or delayed access, affecting compute supply and investment.","Domestic accelerators, permitted alternatives and efficiency gains"
+<b>Data-center grid bottleneck</b>,Delayed power connections prevent planned GPU deployment.,"Other locations, grid investment and phased deployment"
+<b>Major cloud outage</b>,Unavailable APIs and compute interrupt applications and business operations.,"Multi-region systems, redundancy and alternative providers"
+<b>More efficient AI architecture</b>,"Less compute per task lowers unit costs, but broader adoption may increase total demand.",Reassess infrastructure investment and competitive positioning

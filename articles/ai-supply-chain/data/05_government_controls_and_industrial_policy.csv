@@ -1,12 +1,12 @@
 Jurisdiction,Policy and target,Strategic effect
-United States,"Export controls, foreign-direct-product rules and entity restrictions on specified chips, equipment, software and technology",Limits specified transfers and end uses. Coverage and license requirements vary.
-United States,"CHIPS Act support for fabrication, R&D and packaging",Encourages domestic investment and geographic diversification
-Netherlands,"Dutch export licensing for specified advanced lithography, inspection and other equipment",Controls sensitive equipment exports under Dutch authority
-Japan,Japanese export licensing for specified chipmaking equipment,Subjects covered transfers to licensing and security review
-China,"Export licensing for selected minerals and materials, including gallium, germanium and graphite categories",Influences access to controlled inputs. Conditions vary by product and destination.
-China,"Subsidies, procurement and research support for chips, equipment and AI infrastructure",Encourages domestic capability and import substitution
-Taiwan,"Industrial support, investment rules and technology protection for semiconductor manufacturing",Supports domestic capabilities and manages technology transfers
-South Korea,"Incentives and R&D support for memory, fabrication and packaging",Strengthens domestic manufacturing competitiveness
-European Union,"European Chips Act support for production, research and supply resilience",Expands regional capabilities and reduces selected dependencies
-India,"Incentives for fabrication, packaging and electronics manufacturing",Builds domestic capacity and attracts international investment
-Middle Eastern states,"Sovereign investment and partnerships in AI compute, power and data centers",Expands domestic capacity and technology partnerships. Delivery varies by project.
+<b>United States</b>,"Export controls, foreign-direct-product rules and entity restrictions on specified chips, equipment, software and technology",Limits specified transfers and end uses. Coverage and license requirements vary.
+<b>United States</b>,"CHIPS Act support for fabrication, R&amp;D and packaging",Encourages domestic investment and geographic diversification
+<b>Netherlands</b>,"Dutch export licensing for specified advanced lithography, inspection and other equipment",Controls sensitive equipment exports under Dutch authority
+<b>Japan</b>,Japanese export licensing for specified chipmaking equipment,Subjects covered transfers to licensing and security review
+<b>China</b>,"Export licensing for selected minerals and materials, including gallium, germanium and graphite categories",Influences access to controlled inputs. Conditions vary by product and destination.
+<b>China</b>,"Subsidies, procurement and research support for chips, equipment and AI infrastructure",Encourages domestic capability and import substitution
+<b>Taiwan</b>,"Industrial support, investment rules and technology protection for semiconductor manufacturing",Supports domestic capabilities and manages technology transfers
+<b>South Korea</b>,"Incentives and R&amp;D support for memory, fabrication and packaging",Strengthens domestic manufacturing competitiveness
+<b>European Union</b>,"European Chips Act support for production, research and supply resilience",Expands regional capabilities and reduces selected dependencies
+<b>India</b>,"Incentives for fabrication, packaging and electronics manufacturing",Builds domestic capacity and attracts international investment
+<b>Middle Eastern states</b>,"Sovereign investment and partnerships in AI compute, power and data centers",Expands domestic capacity and technology partnerships. Delivery varies by project.
