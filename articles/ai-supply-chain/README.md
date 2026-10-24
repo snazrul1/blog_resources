@@ -40,6 +40,8 @@ Abbreviations: EDA = electronic design automation; EUV = extreme ultraviolet; HB
 
 ## Linking and publishing
 
+[Datawrapper mappings](datawrapper.json) connect each table to its exact CSV path, live raw URL, draft editor and publication status. Table 01 has an unpublished draft; Tables 02–09 have not been created in Datawrapper. The mapping also preserves a commit-specific CSV snapshot for the last verified draft. The live source can change independently of that snapshot.
+
 After the files are pushed to GitHub, the raw URL pattern on the default branch is:
 
 ```text
@@ -53,3 +55,5 @@ A raw URL supplies data to a renderer; it is not itself a formatted Medium table
 ## Updating this collection
 
 Keep filenames stable. Update facts, qualifications and source links together, record the new editorial revision date here, and preserve the distinction between observations and scenarios. Check that every file still parses as CSV and that each row has the same number of fields as its header.
+
+Update `datawrapper.json` whenever a visualization is created, its source changes, or an approved publication is completed. Refresh the verified commit and snapshot URL after checking the draft against a new CSV revision.

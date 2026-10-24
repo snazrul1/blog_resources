@@ -1,0 +1,122 @@
+{
+  "description": "Datawrapper-to-CSV mappings. raw_csv_url is the live source; last_verified_csv_snapshot_url preserves the exact CSV revision last checked in the draft. Published URLs remain null until publication is approved and completed.",
+  "tables": [
+    {
+      "table": "01",
+      "csv_path": "articles/ai-supply-chain/data/01_global_ai_industrial_pipeline.csv",
+      "github_csv_url": "https://github.com/snazrul1/blog_resources/blob/main/articles/ai-supply-chain/data/01_global_ai_industrial_pipeline.csv",
+      "raw_csv_url": "https://raw.githubusercontent.com/snazrul1/blog_resources/main/articles/ai-supply-chain/data/01_global_ai_industrial_pipeline.csv",
+      "datawrapper_id": "CL144",
+      "datawrapper_editor_url": "https://app.datawrapper.de/edit/CL144/visualize",
+      "datawrapper_published_url": null,
+      "status": "draft",
+      "data_connection": "direct_live_csv",
+      "last_verified_csv_commit": "feaf0db8f1cc94768b9d08c10c35f030d654d7a5",
+      "last_verified_csv_snapshot_url": "https://raw.githubusercontent.com/snazrul1/blog_resources/feaf0db8f1cc94768b9d08c10c35f030d654d7a5/articles/ai-supply-chain/data/01_global_ai_industrial_pipeline.csv"
+    },
+    {
+      "table": "02",
+      "csv_path": "articles/ai-supply-chain/data/02_concentration_of_industrial_capabilities.csv",
+      "github_csv_url": "https://github.com/snazrul1/blog_resources/blob/main/articles/ai-supply-chain/data/02_concentration_of_industrial_capabilities.csv",
+      "raw_csv_url": "https://raw.githubusercontent.com/snazrul1/blog_resources/main/articles/ai-supply-chain/data/02_concentration_of_industrial_capabilities.csv",
+      "datawrapper_id": null,
+      "datawrapper_editor_url": null,
+      "datawrapper_published_url": null,
+      "status": "not_created",
+      "data_connection": null,
+      "last_verified_csv_commit": null,
+      "last_verified_csv_snapshot_url": null
+    },
+    {
+      "table": "03",
+      "csv_path": "articles/ai-supply-chain/data/03_critical_industrial_chokepoints.csv",
+      "github_csv_url": "https://github.com/snazrul1/blog_resources/blob/main/articles/ai-supply-chain/data/03_critical_industrial_chokepoints.csv",
+      "raw_csv_url": "https://raw.githubusercontent.com/snazrul1/blog_resources/main/articles/ai-supply-chain/data/03_critical_industrial_chokepoints.csv",
+      "datawrapper_id": null,
+      "datawrapper_editor_url": null,
+      "datawrapper_published_url": null,
+      "status": "not_created",
+      "data_connection": null,
+      "last_verified_csv_commit": null,
+      "last_verified_csv_snapshot_url": null
+    },
+    {
+      "table": "04",
+      "csv_path": "articles/ai-supply-chain/data/04_strategic_trade_routes_and_transport.csv",
+      "github_csv_url": "https://github.com/snazrul1/blog_resources/blob/main/articles/ai-supply-chain/data/04_strategic_trade_routes_and_transport.csv",
+      "raw_csv_url": "https://raw.githubusercontent.com/snazrul1/blog_resources/main/articles/ai-supply-chain/data/04_strategic_trade_routes_and_transport.csv",
+      "datawrapper_id": null,
+      "datawrapper_editor_url": null,
+      "datawrapper_published_url": null,
+      "status": "not_created",
+      "data_connection": null,
+      "last_verified_csv_commit": null,
+      "last_verified_csv_snapshot_url": null
+    },
+    {
+      "table": "05",
+      "csv_path": "articles/ai-supply-chain/data/05_government_controls_and_industrial_policy.csv",
+      "github_csv_url": "https://github.com/snazrul1/blog_resources/blob/main/articles/ai-supply-chain/data/05_government_controls_and_industrial_policy.csv",
+      "raw_csv_url": "https://raw.githubusercontent.com/snazrul1/blog_resources/main/articles/ai-supply-chain/data/05_government_controls_and_industrial_policy.csv",
+      "datawrapper_id": null,
+      "datawrapper_editor_url": null,
+      "datawrapper_published_url": null,
+      "status": "not_created",
+      "data_connection": null,
+      "last_verified_csv_commit": null,
+      "last_verified_csv_snapshot_url": null
+    },
+    {
+      "table": "06",
+      "csv_path": "articles/ai-supply-chain/data/06_global_interdependencies.csv",
+      "github_csv_url": "https://github.com/snazrul1/blog_resources/blob/main/articles/ai-supply-chain/data/06_global_interdependencies.csv",
+      "raw_csv_url": "https://raw.githubusercontent.com/snazrul1/blog_resources/main/articles/ai-supply-chain/data/06_global_interdependencies.csv",
+      "datawrapper_id": null,
+      "datawrapper_editor_url": null,
+      "datawrapper_published_url": null,
+      "status": "not_created",
+      "data_connection": null,
+      "last_verified_csv_commit": null,
+      "last_verified_csv_snapshot_url": null
+    },
+    {
+      "table": "07",
+      "csv_path": "articles/ai-supply-chain/data/07_economics_and_money_flows.csv",
+      "github_csv_url": "https://github.com/snazrul1/blog_resources/blob/main/articles/ai-supply-chain/data/07_economics_and_money_flows.csv",
+      "raw_csv_url": "https://raw.githubusercontent.com/snazrul1/blog_resources/main/articles/ai-supply-chain/data/07_economics_and_money_flows.csv",
+      "datawrapper_id": null,
+      "datawrapper_editor_url": null,
+      "datawrapper_published_url": null,
+      "status": "not_created",
+      "data_connection": null,
+      "last_verified_csv_commit": null,
+      "last_verified_csv_snapshot_url": null
+    },
+    {
+      "table": "08",
+      "csv_path": "articles/ai-supply-chain/data/08_disruptions_and_downstream_effects.csv",
+      "github_csv_url": "https://github.com/snazrul1/blog_resources/blob/main/articles/ai-supply-chain/data/08_disruptions_and_downstream_effects.csv",
+      "raw_csv_url": "https://raw.githubusercontent.com/snazrul1/blog_resources/main/articles/ai-supply-chain/data/08_disruptions_and_downstream_effects.csv",
+      "datawrapper_id": null,
+      "datawrapper_editor_url": null,
+      "datawrapper_published_url": null,
+      "status": "not_created",
+      "data_connection": null,
+      "last_verified_csv_commit": null,
+      "last_verified_csv_snapshot_url": null
+    },
+    {
+      "table": "09",
+      "csv_path": "articles/ai-supply-chain/data/09_competitors_and_structural_changes.csv",
+      "github_csv_url": "https://github.com/snazrul1/blog_resources/blob/main/articles/ai-supply-chain/data/09_competitors_and_structural_changes.csv",
+      "raw_csv_url": "https://raw.githubusercontent.com/snazrul1/blog_resources/main/articles/ai-supply-chain/data/09_competitors_and_structural_changes.csv",
+      "datawrapper_id": null,
+      "datawrapper_editor_url": null,
+      "datawrapper_published_url": null,
+      "status": "not_created",
+      "data_connection": null,
+      "last_verified_csv_commit": null,
+      "last_verified_csv_snapshot_url": null
+    }
+  ]
+}
