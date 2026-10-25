@@ -8,7 +8,7 @@ Nine tables mapping the global AI economy, from physical production to industria
 
 | Table | Topic | Rows | What it explains | Datawrapper |
 | --- | --- | ---: | --- | --- |
-| [01](data/01_global_ai_industrial_pipeline.csv) | Global AI industrial pipeline | 11 | How materials, chips, infrastructure, models and applications connect. | [Published table](https://datawrapper.dwcdn.net/LsPh3/1/) |
+| [01](data/01_global_ai_industrial_pipeline.csv) | Global AI industrial pipeline | 11 | How materials, chips, infrastructure, models and applications connect. | [Published table](https://datawrapper.dwcdn.net/yi9o5/1/) |
 | [02](data/02_concentration_of_industrial_capabilities.csv) | Concentration of industrial capabilities | 11 | Geographic specializations and the dependencies behind them. | [Published table](https://datawrapper.dwcdn.net/8SrQ4/1/) |
 | [03](data/03_critical_industrial_chokepoints.csv) | Critical industrial chokepoints | 10 | Why switching suppliers or technologies can be difficult. | [Published table](https://datawrapper.dwcdn.net/sUTfg/1/) |
 | [04](data/04_strategic_trade_routes_and_transport.csv) | Strategic trade routes and transport | 7 | Transport and energy corridors, disruption mechanisms and alternatives. | [Published table](https://datawrapper.dwcdn.net/1Zqya/1/) |
@@ -41,6 +41,8 @@ Abbreviations: EDA = electronic design automation; EUV = extreme ultraviolet; HB
 ## Linking and publishing
 
 [Datawrapper mappings](datawrapper.json) connect each published table to its exact CSV path, live raw URL, editor and public embed URL. All nine tables are published under the signed-in account; their original anonymous drafts were replaced. The mapping records the CSV commit used at publication and preserves a commit-specific snapshot. The live source can change independently of that snapshot, including after publication.
+
+Table 01 was recreated in the accessible account on October 24, 2026. Its original three columns remain visible on desktop. A calculated column combines the same fields into full-width mobile cards; it does not change the source CSV. The replacement is embedded in the unpublished Medium draft. The mapping retains the previous visualization ID.
 
 For Medium, copy a published table URL from the index, paste it on a blank line and press Enter.
 
