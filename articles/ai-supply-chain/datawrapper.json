@@ -8,7 +8,7 @@
       "raw_csv_url": "https://raw.githubusercontent.com/snazrul1/blog_resources/main/articles/ai-supply-chain/data/01_global_ai_industrial_pipeline.csv",
       "datawrapper_id": "yi9o5",
       "datawrapper_editor_url": "https://app.datawrapper.de/jpgaficeqb/edit/yi9o5/visualize",
-      "datawrapper_published_url": "https://datawrapper.dwcdn.net/yi9o5/1/",
+      "datawrapper_published_url": "https://datawrapper.dwcdn.net/yi9o5/2/",
       "status": "published",
       "data_connection": "direct_live_csv",
       "last_verified_csv_commit": "e3839fb69e4caaee6e3479bcee23c98273603ce3",
@@ -16,14 +16,14 @@
       "title": "The Global AI Industrial Pipeline",
       "last_verified_on": "2026-10-24",
       "published_on": "2026-10-24",
-      "published_version": 1,
+      "published_version": 2,
       "csv_commit_at_publication": "e3839fb69e4caaee6e3479bcee23c98273603ce3",
       "superseded_anonymous_datawrapper_id": "CL144",
-      "replacement_reason": "Recreated in the accessible account because the previous workspace was inaccessible. Desktop retains the original three columns; mobile uses a calculated full-width card column with the original content.",
+      "replacement_reason": "Recreated in the accessible account because the previous workspace was inaccessible. The original three columns remain visible on desktop and mobile, with wrapping text and alternating row shading.",
       "superseded_datawrapper_id": "LsPh3",
       "superseded_published_url": "https://datawrapper.dwcdn.net/LsPh3/1/",
       "layout_verified_on": "2026-10-24",
-      "mobile_card_formula": "CONCAT(physical_supply_chain, \"<br><br><b>Economic relationships</b><br>\", economic_relationships, \"<br><br><b>Geographic concentration</b><br>\", geographic_concentration)"
+      "mobile_layout": "Mobile fallback disabled; original three columns visible on all devices. Body and header sizes are 93% (about 13px). Calculated card column hidden on both desktop and mobile."
     },
     {
       "table": "02",
@@ -187,3 +187,4 @@
     }
   ]
 }
+
